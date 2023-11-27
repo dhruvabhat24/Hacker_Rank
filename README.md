@@ -10,3 +10,6 @@ Here the codes which I have done during the HackerRank 3 month Preperation Kit
 7. Spars Array
 # Week-2 
 8. Lonely Integer
+   
+# Mock-Test
+1. Week-1 --> Find The Median 
