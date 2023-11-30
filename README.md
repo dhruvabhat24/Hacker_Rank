@@ -16,5 +16,6 @@ Here the codes which I have done during the HackerRank 3 month Preperation Kit
 5. Counting Sorting 1
 6. Counting Valleys
 7. Pangrams
+8. Mars Exploration
 # Mock-Test
 1. Week-1 --> Find The Median 
