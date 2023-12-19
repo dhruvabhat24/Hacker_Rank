@@ -41,3 +41,5 @@ Here the codes which I have done during the HackerRank 3 month Preperation Kit
 # Mock-Test
 1. Week-1 --> Find The Median
 2. Week-2 --> Flipping The Matrix
+3. Week-3 --> Between Two Sets
+4. Week-4 --> Anagram
