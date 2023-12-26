@@ -44,6 +44,8 @@ Here the codes which I have done during the HackerRank 3 month Preperation Kit
 6. Grid Challenge
 7. Sansa and XOR
 8. Smart number 2
+# Week-6
+1. Prime Dates
 # Mock-Test
 1. Week-1 --> Find The Median
 2. Week-2 --> Flipping The Matrix
