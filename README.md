@@ -46,6 +46,7 @@ Here the codes which I have done during the HackerRank 3 month Preperation Kit
 8. Smart number 2
 # Week-6
 1. Prime Dates
+2. Sherlock and Array
 # Mock-Test
 1. Week-1 --> Find The Median
 2. Week-2 --> Flipping The Matrix
