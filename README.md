@@ -53,6 +53,8 @@ Here the codes which I have done during the HackerRank 3 month Preperation Kit
 6. Recursive Digit Sum
 7. Counter game
 8. Sum vs XOR
+# Week-7
+1. The Bomberman Game
 # Mock-Test
 1. Week-1 --> Find The Median
 2. Week-2 --> Flipping The Matrix
