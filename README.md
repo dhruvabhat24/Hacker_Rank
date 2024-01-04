@@ -63,3 +63,4 @@ Here the codes which I have done during the HackerRank 3 month Preperation Kit
 3. Week-3 --> Between Two Sets
 4. Week-4 --> Anagram
 5. Week-5 --> Fibonacci Modified
+6. Week-6 --> Palindrome Index
