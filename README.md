@@ -68,6 +68,7 @@ Here the codes which I have done during the HackerRank 3 month Preperation Kit
 3. Ice Cream Parlor
 4. Inserting a Node Into a Sorted Doubly Linked List
 5. Queue using Two Stacks
+6. Sherlock and Anagrams
 # Mock-Test
 1. Week-1 --> Find The Median
 2. Week-2 --> Flipping The Matrix
